@@ -1,0 +1,95 @@
+{
+  "patient_001_1mm": [
+    {
+      "date": "2026-04-04",
+      "predicted_class": "unknown",
+      "confidence": 0,
+      "verdict": "REJECTED",
+      "birads_estimate": "UNCERTAIN"
+    }
+  ],
+  "PT-001": {
+    "scans": [
+      {
+        "scan_number": "1mm",
+        "date": "2026-04-05 23:07",
+        "predicted_class": null,
+        "birads_estimate": null,
+        "verdict": "REJECTED",
+        "urgency": "routine"
+      },
+      {
+        "scan_number": "1mm",
+        "date": "2026-04-05 23:11",
+        "predicted_class": null,
+        "birads_estimate": null,
+        "verdict": "REJECTED",
+        "urgency": "routine"
+      },
+      {
+        "scan_number": "1mm",
+        "date": "2026-04-05",
+        "predicted_class": null,
+        "birads_estimate": null,
+        "verdict": "REJECTED",
+        "urgency": "routine"
+      },
+      {
+        "scan_number": "1mm",
+        "date": "2026-04-05",
+        "predicted_class": null,
+        "birads_estimate": null,
+        "verdict": "REJECTED",
+        "urgency": "routine"
+      },
+      {
+        "scan_number": "1mm",
+        "date": "2026-04-05",
+        "predicted_class": null,
+        "birads_estimate": null,
+        "verdict": "REJECTED",
+        "urgency": "routine"
+      },
+      {
+        "scan_number": "1mm",
+        "date": "2026-04-05",
+        "predicted_class": "benign",
+        "birads_estimate": "3",
+        "verdict": "APPROVED",
+        "urgency": "routine"
+      }
+    ]
+  },
+  "PT-002": {
+    "scans": [
+      {
+        "scan_number": "2mm",
+        "date": "2026-04-06",
+        "predicted_class": "benign",
+        "birads_estimate": "3",
+        "verdict": "APPROVED",
+        "urgency": "routine"
+      },
+      {
+        "scan_number": "2mm",
+        "date": "2026-04-06",
+        "predicted_class": "benign",
+        "birads_estimate": "3",
+        "verdict": "APPROVED",
+        "urgency": "routine"
+      }
+    ]
+  },
+  "PT-003": {
+    "scans": [
+      {
+        "scan_number": "3als",
+        "date": "2026-04-06",
+        "predicted_class": "benign",
+        "birads_estimate": "2-3",
+        "verdict": "APPROVED",
+        "urgency": "routine"
+      }
+    ]
+  }
+}
